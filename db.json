@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "ddd",
+      "email": "shailezb@gmail.com",
+      "password": "aaaa",
+      "id": 1
+    },
+    {
+      "name": "ddd",
+      "email": "a@gmail.com",
+      "password": "1111",
+      "id": 2
+    },
+    {
+      "name": "sss",
+      "email": "s@gmail.com",
+      "password": "2222",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "type": "income",
+      "category": "shopping",
+      "amount": "4444",
+      "date": "2023-06-13",
+      "id": 3
+    },
+    {
+      "type": "expense",
+      "category": "shopping",
+      "amount": "44444",
+      "date": "2023-06-07",
+      "id": 4
+    },
+    {
+      "type": "income",
+      "category": "housing",
+      "amount": "33333",
+      "date": "2023-06-18",
+      "id": 5
+    },
+    {
+      "type": "expense",
+      "category": "food",
+      "amount": "33333",
+      "date": "2023-06-18",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "category": "vechile",
+      "amount": "33333",
+      "date": "2023-06-18",
+      "id": 7
+    }
+  ]
+}
